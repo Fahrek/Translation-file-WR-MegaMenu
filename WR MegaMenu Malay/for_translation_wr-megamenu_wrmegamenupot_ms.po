@@ -1,0 +1,1691 @@
+# Copyright (C) 2015 WR MegaMenu
+# This file is distributed under the same license as the WR MegaMenu package.
+# Translators:
+# Syahril Zulkefli <syahzul@gmail.com>, 2015
+msgid ""
+msgstr ""
+"Project-Id-Version: WR MegaMenu\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/wr-megamenu\n"
+"POT-Creation-Date: 2015-01-06 04:08:38+00:00\n"
+"PO-Revision-Date: 2015-03-31 02:30+0000\n"
+"Last-Translator: Tony WooRockets <woorockets@gmail.com>\n"
+"Language-Team: Malay (http://www.transifex.com/projects/p/wr-megamenu/language/ms/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ms\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: includes/addon.php:269
+msgid "You can not activate this WR MegaMenu's provider:"
+msgstr "Anda tidak boleh mengaktifkan pembekal WR Megamenu ini:"
+
+#: includes/addon.php:274
+msgid "It requires WR MegaMenu's version:"
+msgstr "Ia memerlukan WR Megamenu versi:"
+
+#: includes/core/backend.php:60
+msgid "Profile updated"
+msgstr "Profil dikemaskini"
+
+#: includes/core/backend.php:132
+msgid "Select an icon"
+msgstr "Pilih satu ikon"
+
+#: includes/core/backend.php:143 templates/menu-builder.php:162
+msgid "Icon"
+msgstr "Ikon"
+
+#: includes/core/backend.php:403 includes/core/backend.php:405
+msgid "ON"
+msgstr "BUKA"
+
+#: includes/core/backend.php:403 includes/core/backend.php:405
+msgid "OFF"
+msgstr "TUTUP"
+
+#: includes/core/backend.php:417
+msgid "Configuration"
+msgstr "Konfigurasi"
+
+#: includes/core/backend.php:426
+msgid "Container Width"
+msgstr "Lebar Tapak"
+
+#: includes/core/backend.php:429
+#: includes/shortcode/layout/megamenu-row.php:135
+#: includes/shortcode/layout/megamenu-row.php:156
+msgid "Full"
+msgstr "Penuh"
+
+#: includes/core/backend.php:430
+msgid "Fixed"
+msgstr "Tetap"
+
+#: includes/core/backend.php:436
+msgid "px"
+msgstr "px"
+
+#: includes/core/backend.php:452 shortcodes/submenu/submenu.php:246
+msgid "This menu does not have any sub menu item."
+msgstr "Menu ini tidak mempunyai sebarang item sub menu."
+
+#: includes/core/backend.php:452 shortcodes/submenu/submenu.php:247
+msgid "Add new"
+msgstr "Tambah baru"
+
+#: includes/core/backend.php:457
+msgid "No menu assigned to this location."
+msgstr "Tiada menu ditetapkan di lokasi ini."
+
+#: includes/core/backend.php:457 templates/menu-builder.php:434
+msgid "Manage Locations"
+msgstr "Uruskan Lokasi"
+
+#: includes/core/backend.php:529
+msgid "Profiles"
+msgstr "Profil"
+
+#: includes/core/backend.php:530
+msgid "Profile"
+msgstr "Profil"
+
+#: includes/core/backend.php:531
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: includes/core/backend.php:532 includes/core/backend.php:534
+msgid "Add New Profile"
+msgstr "Tambah Profil Baru"
+
+#: includes/core/backend.php:533
+msgid "Edit Profile"
+msgstr "Kemaskini Profil"
+
+#: includes/core/backend.php:535
+msgid "All Profiles"
+msgstr "Semua Profil"
+
+#: includes/core/backend.php:536
+msgid "View Profile"
+msgstr "Papar Profil"
+
+#: includes/core/backend.php:537
+msgid "Search Profiles"
+msgstr "Cari Profil"
+
+#: includes/core/backend.php:538
+msgid "No Profiles  Found"
+msgstr "Tiada Profil Ditemui"
+
+#: includes/core/backend.php:539
+msgid "No Profiles found in trash"
+msgstr "Tiada Profil ditemui di dalam bakul sampah"
+
+#. #-#-#-#-#  wr-megamenu.pot (WR MegaMenu @version)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  wr-megamenu.pot (WR MegaMenu @version)  #-#-#-#-#
+#. Description of the plugin/theme
+#: includes/core/backend.php:541 includes/helpers/modal.php:358
+#: includes/plugin/admin-menu.php:39 includes/plugin/settings/tmpl/form.php:17
+msgid "WR MegaMenu"
+msgstr "WR MegaMenu"
+
+#: includes/core/backend.php:585
+msgid "empty shortcode name / parameters"
+msgstr "nama / parameter shortcode kosong"
+
+#: includes/core/backend.php:688
+msgid "No, take me back"
+msgstr "Tidak, kembali semula"
+
+#: includes/core/backend.php:711
+msgid ""
+"After deactivating, all data will be deleted. Are you sure you want to "
+"deactivate MegaMenu plugin?"
+msgstr "Selepas menyah-aktifkan, semua data akan dipadamkan. Adakah anda pasti anda mahu menyah-aktifkan plugin MegaMenu?"
+
+#: includes/core/backend.php:717
+msgid "Yes, deactivate plugin"
+msgstr "Ya, nyah-aktifkan plugin"
+
+#: includes/core/backend.php:723
+msgid ""
+"Or if you want to deactivate without removing data and configurations, click"
+" on the button below"
+msgstr "Atau jika anda ingin menyah-aktifkan tanpa memadam data dan konfigurasi, tekan pada butang di bawah"
+
+#: includes/core/backend.php:730
+msgid "Deactivate without removing data"
+msgstr "Nyah-aktif tanpa memadam data"
+
+#: includes/core/backend.php:738
+msgid "WordPress &rsaquo; Confirmation"
+msgstr "WordPress &rsaquo; Pengesahan"
+
+#: includes/core/backend.php:749
+msgid "Nonce is invalid!"
+msgstr "Nonce tidak sah!"
+
+#: includes/form/tmpl/fieldsets.php:25
+msgid "Collapse All"
+msgstr "Tutup Semua"
+
+#: includes/form/tmpl/fieldsets.php:26
+msgid "Expand All"
+msgstr "Buka Semua"
+
+#: includes/form/tmpl/fieldsets.php:37
+msgid "On"
+msgstr "Buka"
+
+#: includes/form/tmpl/fieldsets.php:38 shortcodes/submenu/submenu.php:104
+msgid "Off"
+msgstr "Tutup"
+
+#: includes/gadget/widget.php:43 includes/plugin/settings/builder.php:81
+msgid "No widget ID"
+msgstr "Tiada ID widget"
+
+#: includes/gadget/widget.php:47 includes/plugin/settings/builder.php:85
+msgid "Can not find this widget"
+msgstr "Widget ini tidak ditemui"
+
+#: includes/helpers/functions.php:26
+msgid ""
+"Are you sure you want to delete the whole row including all elements it "
+"contains?"
+msgstr "Adakah anda pasti ingin memadam baris ini termasuk semua elemen di dalamnya?"
+
+#: includes/helpers/functions.php:27
+msgid ""
+"Are you sure you want to delete the whole column including all elements it "
+"contains?"
+msgstr "Adakah anda pasti ingin memadam kolum ini termasuk semua elemen di dalamnya?"
+
+#: includes/helpers/functions.php:28
+msgid "Are you sure you want to delete the element?"
+msgstr "Adakah anda pasti ingin memadam elemen ini?"
+
+#: includes/helpers/functions.php:30
+msgid "A table must has atleast 1 columns. You can't remove this column"
+msgstr "Jadual mesti mempunyai sekurang-kurangnya 1 kolum. Anda tidak boleh memadam kolum ini"
+
+#: includes/helpers/functions.php:31
+msgid "A table must has atleast 2 rows. You can't remove this row"
+msgstr "Jadual mesti mempunyai sekurang-kurangnya 2 baris. Anda tidak boleh memadam kolum ini"
+
+#: includes/helpers/functions.php:32
+msgid "Row span/Column span can't be negative"
+msgstr "Span baris/Span kolum tidak boleh negatif"
+
+#: includes/helpers/functions.php:34
+msgid "Saving content! Please wait a moment."
+msgstr "Menyimpan isi kandungan! Sila tunggu sebentar."
+
+#: includes/helpers/functions.php:35
+msgid "Having error on loading TinyMCE."
+msgstr "Mengalami ralat semasa memuatkan TinyMCE."
+
+#: includes/helpers/functions.php:36 includes/plugin/admin-menu.php:47
+#: includes/plugin/settings/tmpl/form.php:17
+msgid "Settings"
+msgstr "Tetapan"
+
+#: includes/helpers/functions.php:37
+msgid "Page Modal"
+msgstr "Modal Halaman"
+
+#: includes/helpers/functions.php:38
+msgid "Convert to "
+msgstr "Tukar kepada"
+
+#: includes/helpers/functions.php:40
+msgid "No audio source selected"
+msgstr "Tiada sumber audio dipilih"
+
+#: includes/helpers/functions.php:41
+msgid "Select Destination Marker"
+msgstr "Pilih Penanda Destinasi"
+
+#: includes/helpers/functions.php:42
+msgid "No video file selected"
+msgstr "Tiada fail video dipilih"
+
+#: includes/helpers/functions.php:44 includes/helpers/html/destination.php:22
+#: includes/helpers/html/large-image.php:24
+#: includes/shortcode/layout/megamenu-row.php:70
+#: includes/shortcode/layout/megamenu-row.php:155
+msgid "None"
+msgstr "Tiada"
+
+#: includes/helpers/functions.php:45
+msgid "The link is invalid"
+msgstr "Pautan tidak sah"
+
+#: includes/helpers/functions.php:46
+msgid "No %s found"
+msgstr "Tiada %s ditemui"
+
+#: includes/helpers/functions.php:47
+msgid "Single %s"
+msgstr "%s tunggal"
+
+#: includes/helpers/functions.php:48
+msgid "copy"
+msgstr "salin"
+
+#: includes/helpers/functions.php:49
+msgid "%s Filter"
+msgstr "%s Tapisan"
+
+#: includes/helpers/functions.php:50
+msgid "Start From"
+msgstr "Mula Dari"
+
+#: includes/helpers/functions.php:51 includes/helpers/meta.php:40
+#: includes/helpers/type.php:559 includes/helpers/type.php:721
+#: shortcodes/submenu/submenu.php:38
+msgid "Menu"
+msgstr "Menu"
+
+#: includes/helpers/functions.php:52
+msgid "Filter By"
+msgstr "Tapis Dengan"
+
+#: includes/helpers/functions.php:53
+msgid "Attributes"
+msgstr "Sifat"
+
+#: includes/helpers/functions.php:54
+msgid "Attribute"
+msgstr "Sifat"
+
+#: includes/helpers/functions.php:55
+msgid "Option Attribute"
+msgstr "Pilihan Sifat"
+
+#: includes/helpers/functions.php:56 includes/helpers/html/group-table.php:55
+#: includes/helpers/html/group.php:52 includes/helpers/shortcode.php:347
+#: includes/helpers/shortcode.php:715
+msgid "(Untitled)"
+msgstr "(Tiada tajuk)"
+
+#: includes/helpers/functions.php:57
+msgid "Add Page Element"
+msgstr "Tambah Elemen Halaman"
+
+#: includes/helpers/functions.php:59
+msgid "You used up to 50 characters"
+msgstr "Anda telah menggunakan sehingga 50 aksara"
+
+#: includes/helpers/functions.php:60
+msgid ""
+"The whole content of current Post will be replaced by content of selected "
+"Page item. Do you want to continue?"
+msgstr "Semua isi kandungan pada pos sekarang akan digantikan dengan isi kandungan item Halaman. Adakah anda ingin meneruskan?"
+
+#: includes/helpers/functions.php:62 includes/helpers/functions.php:652
+msgid "Deactivate element"
+msgstr "Nyah-aktifkan elemen"
+
+#: includes/helpers/functions.php:63 includes/helpers/functions.php:659
+msgid "Activate element"
+msgstr "Aktifkan elemen"
+
+#: includes/helpers/functions.php:66
+msgid "Select"
+msgstr "Pilih"
+
+#: includes/helpers/functions.php:69
+msgid "Select template"
+msgstr "Pilih templat"
+
+#: includes/helpers/functions.php:70
+msgid "Upload successfully"
+msgstr "Berjaya dimuat-naik"
+
+#: includes/helpers/functions.php:71
+msgid "Upload fail"
+msgstr "Gagal dimuat-naik"
+
+#: includes/helpers/functions.php:72
+msgid "Page is deleted successfully"
+msgstr "Halaman telah berjaya dipadam"
+
+#: includes/helpers/functions.php:73
+msgid "Fail. Can't delete layout"
+msgstr "Gagal. TIdak berjaya mencipta susun atur"
+
+#: includes/helpers/functions.php:74
+msgid "All pages in this group will be remove. Do you want to continue ?"
+msgstr "Semua halaman di dalam kumpulan ini akan dipadam. Adakah anda ingin meneruskan?"
+
+#: includes/helpers/functions.php:75
+msgid "This page will be remove. Do you want to continue ?"
+msgstr "Halaman ini akan dipadam. Adakah anda ingin meneruskan?"
+
+#: includes/helpers/functions.php:76
+msgid "Template name can not be null"
+msgstr "Nama templat tidak boleh kosong"
+
+#: includes/helpers/functions.php:77
+msgid "Template name exists. Please choose another one."
+msgstr "Nama templat telah digunakan. SIla pilih nama yang lain."
+
+#: includes/helpers/functions.php:80 includes/shortcode/element.php:124
+#: includes/shortcode/layout/megamenu-row.php:234
+#: templates/menu-builder.php:441
+msgid "Custom CSS"
+msgstr "CSS Tersuai"
+
+#: includes/helpers/functions.php:81
+msgid "File doesn't exist"
+msgstr "Fail tidak wujud"
+
+#: includes/helpers/functions.php:83
+msgid "Element not existed!"
+msgstr "ELemen tidak wujud!"
+
+#: includes/helpers/functions.php:84
+msgid "Take Style"
+msgstr "Ambil Stail"
+
+#: includes/helpers/functions.php:85
+msgid "Mega this menu"
+msgstr "Mega menu ini"
+
+#: includes/helpers/functions.php:86
+msgid "MegaMenu is OFF now, turn it ON to start configuring"
+msgstr "MegaMenu sekarang dalam keadaan TUTUP, BUKA untuk mulakan konfigurasi"
+
+#: includes/helpers/functions.php:139
+msgid "Save"
+msgstr "Simpan"
+
+#: includes/helpers/functions.php:140 includes/product/tmpl/addons.php:102
+#: includes/product/tmpl/addons.php:116 templates/menu-builder.php:698
+msgid "Cancel"
+msgstr "Batal"
+
+#: includes/helpers/functions.php:141
+msgid "Delete Element"
+msgstr "Padam Elemen"
+
+#: includes/helpers/functions.php:293
+msgid "Widget"
+msgstr "Widget"
+
+#: includes/helpers/functions.php:650
+msgid "Edit element"
+msgstr "Ubah Elemen"
+
+#: includes/helpers/functions.php:651
+msgid "Duplicate element"
+msgstr "Buat Salinan Elemen"
+
+#: includes/helpers/functions.php:653
+msgid "Delete element"
+msgstr "Padam elemen"
+
+#: includes/helpers/html/button-group.php:25
+msgid "Convert to"
+msgstr "Tukar kepada"
+
+#: includes/helpers/html/group-table.php:40 includes/helpers/html/group.php:37
+#: includes/shortcode/element.php:216 includes/shortcode/element.php:226
+msgid "Item"
+msgstr "tem"
+
+#: includes/helpers/html/group-table.php:83 includes/helpers/html/group.php:67
+msgid "Items"
+msgstr "Item"
+
+#: includes/helpers/html/group.php:24 includes/helpers/html/list-extra.php:28
+msgid "Add Item"
+msgstr "Tambah Item"
+
+#: includes/helpers/html/list-submenu.php:35
+#: includes/helpers/html/select-submenu.php:39
+msgid "This menu don't have any sub menus"
+msgstr "Menu ini tidak mempunyai sebarang sub menu"
+
+#: includes/helpers/html/margin.php:45 includes/helpers/type.php:228
+#: templates/menu-builder.php:190
+msgid "Top"
+msgstr "Atas"
+
+#: includes/helpers/html/margin.php:64 includes/helpers/type.php:217
+#: includes/helpers/type.php:231 includes/helpers/type.php:284
+msgid "Right"
+msgstr "Kanan"
+
+#: includes/helpers/html/margin.php:84 includes/helpers/type.php:229
+msgid "Bottom"
+msgstr "Bawah"
+
+#: includes/helpers/html/margin.php:102 includes/helpers/type.php:216
+#: includes/helpers/type.php:230 includes/helpers/type.php:282
+#: templates/menu-builder.php:189
+msgid "Left"
+msgstr "Kiri"
+
+#: includes/helpers/html/preview.php:21
+msgid "Preview"
+msgstr "Pra-tonton"
+
+#: includes/helpers/html/table.php:68 includes/helpers/html/table.php:83
+msgid "Delete"
+msgstr "Padam"
+
+#: includes/helpers/html/table.php:91 templates/menu-builder.php:719
+msgid "Add Row"
+msgstr "Tambah Baris"
+
+#: includes/helpers/html/table.php:92
+msgid "Add Column"
+msgstr "Tambah Kolum"
+
+#: includes/helpers/layout.php:31
+msgid "Template file not found."
+msgstr ""
+
+#: includes/helpers/meta.php:39 includes/helpers/type.php:1021
+#: includes/helpers/type.php:1026
+msgid "Title"
+msgstr "k"
+
+#: includes/helpers/meta.php:41 templates/menu-builder.php:421
+msgid "Location"
+msgstr "Lokasi"
+
+#: includes/helpers/meta.php:42
+msgid "Author"
+msgstr "Penulis"
+
+#: includes/helpers/meta.php:43 includes/helpers/type.php:1023
+#: includes/helpers/type.php:1028
+msgid "Date"
+msgstr "Tarikh"
+
+#: includes/helpers/meta.php:127
+msgid "Show all locations"
+msgstr "Papar semua lokasi"
+
+#: includes/helpers/meta.php:138
+msgid "%s profile duplicated."
+msgstr "Profil %s telah dibuat salinan."
+
+#: includes/helpers/meta.php:148
+msgid "Duplicate %s"
+msgstr "Buat salinan %s"
+
+#: includes/helpers/meta.php:148
+msgid "Duplicate"
+msgstr "Salinan"
+
+#: includes/helpers/modal.php:221 shortcodes/image/megamenu-image.php:192
+#: shortcodes/text/megamenu-text.php:99
+msgid "Margin"
+msgstr "Margin"
+
+#: includes/helpers/modal.php:333
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/helpers/modal.php:338
+msgid "Done!"
+msgstr "Selesai!"
+
+#: includes/helpers/modal.php:338
+msgid "Copy to Clipboard"
+msgstr "Salin ke Clipboard"
+
+#: includes/helpers/modal.php:359
+msgid "WooRockets.com"
+msgstr "WooRockets.com"
+
+#: includes/helpers/modal.php:362 templates/about-us.php:97
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#: includes/helpers/modal.php:363
+msgid "Support"
+msgstr "Sokongan"
+
+#: includes/helpers/type.php:28
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: includes/helpers/type.php:29
+msgid "Roadmap"
+msgstr "Pelan TIndakan"
+
+#: includes/helpers/type.php:30
+msgid "Satellite"
+msgstr "Satelit"
+
+#: includes/helpers/type.php:31
+msgid "Terrain"
+msgstr "Rupa Bumi"
+
+#: includes/helpers/type.php:66 includes/helpers/type.php:80
+msgid "No Styling"
+msgstr "Tiada Stail"
+
+#: includes/helpers/type.php:67
+msgid "Rounded"
+msgstr "Rounded"
+
+#: includes/helpers/type.php:68 includes/helpers/type.php:257
+msgid "Circle"
+msgstr "Bulatan"
+
+#: includes/helpers/type.php:69 includes/helpers/type.php:81
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: includes/helpers/type.php:92
+msgid "Design option 1"
+msgstr "Pilihan rekabentuk 1"
+
+#: includes/helpers/type.php:93
+msgid "Design option 2"
+msgstr "Pilihan rekabentuk 2"
+
+#: includes/helpers/type.php:104 includes/helpers/type.php:119
+#: includes/helpers/type.php:133 includes/helpers/type.php:172
+#: includes/helpers/type.php:189
+msgid "Default"
+msgstr "Asas"
+
+#: includes/helpers/type.php:105
+msgid "Active (Grey)"
+msgstr "Aktif (Kelabu)"
+
+#: includes/helpers/type.php:106 includes/helpers/type.php:135
+#: includes/helpers/type.php:175
+msgid "Success (Green)"
+msgstr "Berjaya (Hijau)"
+
+#: includes/helpers/type.php:107 includes/helpers/type.php:136
+#: includes/helpers/type.php:176
+msgid "Warning (Orange)"
+msgstr "Amaran (Jingga)"
+
+#: includes/helpers/type.php:108 includes/helpers/type.php:137
+#: includes/helpers/type.php:177
+msgid "Danger (Red)"
+msgstr "Bahaya (Merah)"
+
+#: includes/helpers/type.php:120
+msgid "Success"
+msgstr "Berjaya"
+
+#: includes/helpers/type.php:121
+msgid "Info"
+msgstr "Maklumat"
+
+#: includes/helpers/type.php:122
+msgid "Danger"
+msgstr "Bahaya"
+
+#: includes/helpers/type.php:134 includes/helpers/type.php:174
+msgid "Info (Light Blue)"
+msgstr "Maklumat (Biru Cair)"
+
+#: includes/helpers/type.php:148
+msgid "Multiple bars"
+msgstr "Pelbagai bar"
+
+#: includes/helpers/type.php:149
+msgid "Stacked"
+msgstr "Disusun"
+
+#: includes/helpers/type.php:160 includes/helpers/type.php:308
+msgid "Solid"
+msgstr "Solid"
+
+#: includes/helpers/type.php:161
+msgid "Striped"
+msgstr "Bergaris"
+
+#: includes/helpers/type.php:173
+msgid "Primary (Dark Blue)"
+msgstr "Utama (Biru Gelap)"
+
+#: includes/helpers/type.php:178
+msgid "Link"
+msgstr "Pautan"
+
+#: includes/helpers/type.php:190
+msgid "Mini"
+msgstr "Mini"
+
+#: includes/helpers/type.php:191
+msgid "Small"
+msgstr "Kecil"
+
+#: includes/helpers/type.php:192
+msgid "Large"
+msgstr "Besar"
+
+#: includes/helpers/type.php:203
+msgid "Current Browser"
+msgstr "Pelayar Semasa"
+
+#: includes/helpers/type.php:204
+msgid "New Browser"
+msgstr "Pelayar Seterusnya"
+
+#: includes/helpers/type.php:258
+msgid "Square"
+msgstr "Petak"
+
+#: includes/helpers/type.php:269
+msgid "Standard fonts"
+msgstr "Font standard"
+
+#: includes/helpers/type.php:270
+msgid "Google fonts"
+msgstr "Font Google"
+
+#: includes/helpers/type.php:281 includes/helpers/type.php:326
+msgid "Inherit"
+msgstr "Warisi"
+
+#: includes/helpers/type.php:283
+msgid "Center"
+msgstr "Tengah"
+
+#: includes/helpers/type.php:309
+msgid "Dotted"
+msgstr "Dotted"
+
+#: includes/helpers/type.php:310
+msgid "Dashed"
+msgstr "Dashed"
+
+#: includes/helpers/type.php:311
+msgid "Double"
+msgstr "Dwi"
+
+#: includes/helpers/type.php:312
+msgid "Groove"
+msgstr "Groove"
+
+#: includes/helpers/type.php:313
+msgid "Ridge"
+msgstr "Ridge"
+
+#: includes/helpers/type.php:314
+msgid "Inset"
+msgstr "Inset"
+
+#: includes/helpers/type.php:315
+msgid "Outset"
+msgstr "Outset"
+
+#: includes/helpers/type.php:327
+msgid "Italic"
+msgstr "Italic"
+
+#: includes/helpers/type.php:328
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/helpers/type.php:329
+msgid "Bold"
+msgstr "Bold"
+
+#: includes/helpers/type.php:379 includes/helpers/type.php:437
+#: includes/helpers/type.php:600 includes/helpers/type.php:732
+#: includes/helpers/type.php:1147
+msgid "Root"
+msgstr "Root"
+
+#: includes/helpers/type.php:389 includes/helpers/type.php:473
+#: includes/helpers/type.php:497 includes/helpers/type.php:509
+#: includes/helpers/type.php:752 includes/helpers/type.php:1153
+msgid "( no title )"
+msgstr "( tiada tajuk )"
+
+#: includes/helpers/type.php:485 includes/helpers/type.php:618
+msgid "( no name )"
+msgstr "( tiada nama )"
+
+#: includes/helpers/type.php:530
+msgid "No Action"
+msgstr "Tiada Tindakan"
+
+#: includes/helpers/type.php:531
+msgid "Go to URL"
+msgstr "Pergi ke URL"
+
+#: includes/helpers/type.php:532
+msgid "Go to Single Entry"
+msgstr "Pergi ke Entri Tunggal"
+
+#: includes/helpers/type.php:535
+msgid "Go to Taxonomy Overview Page"
+msgstr "Pergi ke Halaman Gambaran Keseluruhan Taxonomi"
+
+#: includes/helpers/type.php:560
+msgid "Single Entries"
+msgstr "Entri Tunggal"
+
+#: includes/helpers/type.php:563
+msgid "Taxonomy Overview Page"
+msgstr "Halaman Gambaran Keseluruhan Taxonomi"
+
+#: includes/helpers/type.php:577
+msgid "Show Large Image"
+msgstr "Papar Gambar Besar"
+
+#: includes/helpers/type.php:808
+msgid "Product Type"
+msgstr "Jenis Produk"
+
+#: includes/helpers/type.php:1022 includes/helpers/type.php:1027
+msgid "Comment Count"
+msgstr "Kiraan Komen"
+
+#: includes/helpers/type.php:1072
+msgid "Name"
+msgstr "Nama"
+
+#: includes/helpers/type.php:1073
+msgid "Description"
+msgstr "Penerangan"
+
+#: includes/helpers/type.php:1074
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/helpers/type.php:1075
+msgid "Count"
+msgstr "Kiraan"
+
+#: includes/helpers/type.php:1094
+msgid " - No ordering - "
+msgstr "- Tiada susunan -"
+
+#: includes/helpers/type.php:1110
+msgid "Ascending"
+msgstr "Menaik"
+
+#: includes/helpers/type.php:1111
+msgid "Descending"
+msgstr "Menurun"
+
+#: includes/helpers/type.php:1193
+msgid "Free text"
+msgstr "Teks bebas"
+
+#: includes/helpers/type.php:1194
+msgid "Yes / No"
+msgstr "Ya / Tidak"
+
+#: includes/plugin/admin-menu.php:59 includes/product/tmpl/addons.php:15
+msgid "Add-ons"
+msgstr "Add-on"
+
+#: includes/plugin/admin-menu.php:66
+msgid "WR MegaMenu - Add-ons"
+msgstr "WR MegaMenu - Add-ons"
+
+#: includes/plugin/admin-menu.php:78
+msgid "WR MegaMenu - About Us"
+msgstr "WR MegaMenu - Mengenai Kami"
+
+#: includes/plugin/admin-menu.php:79
+msgid "About Us"
+msgstr "Mengenai Kami"
+
+#: includes/plugin/settings/builder.php:44
+msgid "Profile not found."
+msgstr "Profil tidak ditemui."
+
+#: includes/plugin/settings/settings.php:97
+msgid "Unable to submit this form, please refresh and try again."
+msgstr "Tidak berjaya menghantar borang ini, cuba refresh dan cuba lagi."
+
+#: includes/plugin/settings/settings.php:101
+msgid "Oops, you don&#8217;t have access to manage settings."
+msgstr "Oops, anda tidak mempunyai akses untuk menguruskan tetapan."
+
+#: includes/plugin/settings/settings.php:136
+msgid "Settings saved successfully."
+msgstr "Tetapan telah berjaya disimpan."
+
+#: includes/plugin/settings/settings.php:144
+msgid "Missing template file."
+msgstr "Fail templat hilang."
+
+#: includes/plugin/shortcode.php:29 templates/select-elements.php:59
+#: templates/select-elements.php:70
+msgid "Standard Elements"
+msgstr "Elemen Standard"
+
+#: includes/product/addons.php:48
+msgid "Cannot get addons information for current product."
+msgstr "Gagal mendapatkan maklumat addon untuk produk semasa."
+
+#: includes/product/addons.php:72
+msgid "Missing addon to be installed."
+msgstr "Addon hilang yang akan dipasang."
+
+#: includes/product/addons.php:79
+msgid "The requested action is invalid."
+msgstr "Tindakan yang diminta tidak sah."
+
+#: includes/product/addons.php:116
+msgid ""
+"You do not have sufficient permissions to either add or delete plugins for "
+"this site."
+msgstr "Anda tidak mempunyai kebenaran yang cukup sama ada untuk menambah atau memadam plugin untuk laman web ini."
+
+#: includes/product/addons.php:200
+msgid ""
+"Cannot install %1$s v%2$s.\n"
+"This version requires %3$s v%4$s while you are using %5$s v%6$s."
+msgstr "Tidak boleh memasang %1$s v%2$s.\nVersi ini memerlukan %3$s v%4$s sedangkan anda menggunakan %5$s v%6$s."
+
+#: includes/product/addons.php:341
+msgid "Invalid Parameters! Can not verify your product information."
+msgstr "Parameter Tidak Sah! Gagal mengesahkan maklumat produk anda."
+
+#: includes/product/addons.php:345
+msgid "Invalid username or password."
+msgstr "Nama pengguna atau kata laluan tidak sah."
+
+#: includes/product/addons.php:349
+msgid ""
+"We could not find the product in your order list. Seems like you did not "
+"purchase it yet."
+msgstr "Kami tidak dapat mencari produk dalam senarai pesanan anda. Seolah-olah seperti anda tidak membelinya lagi."
+
+#: includes/product/addons.php:353
+msgid "Requested file is not found on server."
+msgstr "Fail yang diminta tidak dijumpai pada pelayan."
+
+#: includes/product/addons.php:358
+msgid "Cannot connect to WooRockets.com server."
+msgstr "Gagal berhubung ke pelayan WooRockets.com."
+
+#: includes/product/addons.php:371
+msgid "Cannot store add-on package to local file system."
+msgstr "Gagal menyimpan pakej add-on untuk sistem fail tempatan."
+
+#: includes/product/addons.php:394
+msgid ""
+"You do not have sufficient permissions to activate plugins for this site."
+msgstr "Anda tidak mempunyai kebenaran yang cukup untuk mengaktifkan plugin untuk laman web ini."
+
+#: includes/product/addons.php:404
+msgid "Cannot detect plugin to activate."
+msgstr "Tidak dapat mengesan plugin untuk diaktifkan."
+
+#: includes/product/tmpl/addons.php:17
+msgid "Extend %s functionality with following add-ons"
+msgstr "Tambah fungsi %s dengan menambah add-on berikut"
+
+#: includes/product/tmpl/addons.php:27 includes/product/tmpl/addons.php:120
+msgid "Incompatible"
+msgstr "Tidak serasi"
+
+#: includes/product/tmpl/addons.php:29 includes/product/tmpl/addons.php:119
+msgid "Installed"
+msgstr "Telah dipasang"
+
+#: includes/product/tmpl/addons.php:38 includes/product/tmpl/addons.php:101
+#: includes/product/tmpl/addons.php:117
+msgid "Install"
+msgstr "Pasang"
+
+#: includes/product/tmpl/addons.php:42
+msgid "Update"
+msgstr "Naik-taraf"
+
+#: includes/product/tmpl/addons.php:46 includes/product/tmpl/addons.php:118
+msgid "Uninstall"
+msgstr "Membuang"
+
+#: includes/product/tmpl/addons.php:51
+msgid "More Info"
+msgstr "Maklumat Lanjut"
+
+#: includes/product/tmpl/addons.php:67 templates/settings.php:64
+msgid "WooRockets Customer Account"
+msgstr "Akaun Pelanggan WooRockets"
+
+#: includes/product/tmpl/addons.php:77
+msgid "Username"
+msgstr "Nama Pengguna"
+
+#: includes/product/tmpl/addons.php:83
+msgid "Password"
+msgstr "Kata Laluan"
+
+#: includes/product/tmpl/addons.php:93
+msgid "Remember Me"
+msgstr "Ingat Saya"
+
+#: includes/product/tmpl/addons.php:121
+msgid "Are you sure you want to uninstall %s?"
+msgstr "Adakah anda pasti ingin membuang %s?"
+
+#: includes/product/tmpl/addons.php:122
+msgid "Verifying..."
+msgstr "Pengesahan..."
+
+#: includes/product/tmpl/addons.php:123
+msgid "Installing..."
+msgstr "Pemasangan..."
+
+#: includes/product/tmpl/addons.php:124
+msgid "Updating..."
+msgstr "Menaik-taraf..."
+
+#: includes/product/tmpl/addons.php:125
+msgid "Uninstalling..."
+msgstr "Membuang..."
+
+#: includes/product/update.php:188
+msgid ""
+"<a href='%s'>Please input Evanto information to get product's updates</a>"
+msgstr "<a href='%s'>Sila isikan maklumat Envato untuk mendapatkan kemaskini produk</a>"
+
+#: includes/shortcode/element.php:113
+msgid "Disable"
+msgstr "Lumpuhkan"
+
+#: includes/shortcode/element.php:117
+#: includes/shortcode/layout/megamenu-row.php:187
+#: shortcodes/image/megamenu-image.php:206
+#: shortcodes/text/megamenu-text.php:113 templates/menu-builder.php:48
+#: templates/menu-builder.php:407
+msgid "Yes"
+msgstr "Ya"
+
+#: includes/shortcode/element.php:117
+#: includes/shortcode/layout/megamenu-row.php:187
+#: shortcodes/image/megamenu-image.php:206
+#: shortcodes/text/megamenu-text.php:113 templates/menu-builder.php:47
+#: templates/menu-builder.php:406
+msgid "No"
+msgstr "Tidak"
+
+#: includes/shortcode/element.php:129
+msgid "Class"
+msgstr "Kelas"
+
+#: includes/shortcode/element.php:133
+msgid "Add custom CSS Class for the wrapper div of this element"
+msgstr "Tambah kelas CSS tambahan untuk pemegang div elemen ini"
+
+#: includes/shortcode/element.php:136
+#: includes/shortcode/layout/megamenu-row.php:247
+msgid "ID"
+msgstr "ID"
+
+#: includes/shortcode/element.php:140
+msgid "Add custom CSS ID for the wrapper div of this element"
+msgstr "Tambah ID CSS untuk pemegang div elemen ini"
+
+#: includes/shortcode/element.php:151
+msgid "Advanced"
+msgstr "Lanjutan"
+
+#: includes/shortcode/layout/megamenu-column.php:60
+msgid "Delete column"
+msgstr "Padam kolum"
+
+#: includes/shortcode/layout/megamenu-column.php:62
+msgid "Add Element"
+msgstr "Tambah Kolum"
+
+#: includes/shortcode/layout/megamenu-row.php:64
+msgid "Background"
+msgstr "Latar belakang"
+
+#: includes/shortcode/layout/megamenu-row.php:71
+#: includes/shortcode/layout/megamenu-row.php:79
+msgid "Solid Color"
+msgstr "Warna Solid"
+
+#: includes/shortcode/layout/megamenu-row.php:72
+#: includes/shortcode/layout/megamenu-row.php:99
+msgid "Gradient Color"
+msgstr "Warna Gradient"
+
+#: includes/shortcode/layout/megamenu-row.php:73
+#: includes/shortcode/layout/megamenu-row.php:122
+msgid "Pattern"
+msgstr "Corak"
+
+#: includes/shortcode/layout/megamenu-row.php:74
+#: includes/shortcode/layout/megamenu-row.php:142
+#: shortcodes/image/megamenu-image.php:41
+msgid "Image"
+msgstr "Imej"
+
+#: includes/shortcode/layout/megamenu-row.php:114
+msgid "Gradient Direction"
+msgstr "Arah Gradient"
+
+#: includes/shortcode/layout/megamenu-row.php:118
+#: includes/shortcode/layout/megamenu-row.php:136
+#: templates/menu-builder.php:38
+msgid "Vertical"
+msgstr "Menegak"
+
+#: includes/shortcode/layout/megamenu-row.php:118
+#: includes/shortcode/layout/megamenu-row.php:137
+#: templates/menu-builder.php:37
+msgid "Horizontal"
+msgstr "Mendatar"
+
+#: includes/shortcode/layout/megamenu-row.php:130
+msgid "Repeat"
+msgstr "Ulang"
+
+#: includes/shortcode/layout/megamenu-row.php:150
+msgid "Stretch"
+msgstr "Stretch"
+
+#: includes/shortcode/layout/megamenu-row.php:157
+msgid "Cover"
+msgstr "Cover"
+
+#: includes/shortcode/layout/megamenu-row.php:158
+msgid "Contain"
+msgstr "Contain"
+
+#: includes/shortcode/layout/megamenu-row.php:163
+msgid "Position"
+msgstr "Kedudukan"
+
+#: includes/shortcode/layout/megamenu-row.php:183
+msgid "Enable Paralax"
+msgstr "Benarkan Paralax"
+
+#: includes/shortcode/layout/megamenu-row.php:191
+msgid "Border"
+msgstr "Sempadan"
+
+#: includes/shortcode/layout/megamenu-row.php:222
+msgid "Padding"
+msgstr "Padding"
+
+#: includes/shortcode/layout/megamenu-row.php:240
+msgid "CSS Class"
+msgstr "Kelas CSS"
+
+#: includes/shortcode/layout/megamenu-row.php:244
+msgid "Add custom css class for the wrapper div of this element"
+msgstr "Tambah kelas css tambahan untuk pemegang div elemen ini"
+
+#: includes/shortcode/layout/megamenu-row.php:251
+msgid "Add custom id for the wrapper div of this element"
+msgstr "Tambah id css tambahan untuk pemegang div elemen ini"
+
+#: includes/shortcode/layout/megamenu-row.php:284
+msgid "Move Up"
+msgstr "Naik Atas"
+
+#: includes/shortcode/layout/megamenu-row.php:285
+msgid "Move Down"
+msgstr "Turun Bawah"
+
+#: includes/shortcode/layout/megamenu-row.php:291
+msgid "Add column"
+msgstr "Tambah kolum"
+
+#: includes/shortcode/layout/megamenu-row.php:293
+msgid "Delete row"
+msgstr "Padam baris"
+
+#: shortcodes/image/megamenu-image.php:42
+msgid "Media"
+msgstr "Media"
+
+#: shortcodes/image/megamenu-image.php:44
+msgid "Simple image with animation"
+msgstr "Imej ringkas dengan animasi"
+
+#: shortcodes/image/megamenu-image.php:81 shortcodes/submenu/submenu.php:55
+#: shortcodes/text/megamenu-text.php:75
+msgid "Element Title"
+msgstr "Tajuk Elemen"
+
+#: shortcodes/image/megamenu-image.php:87 shortcodes/submenu/submenu.php:62
+#: shortcodes/text/megamenu-text.php:81
+msgid "Set title for current element for identifying easily"
+msgstr "Tetapkan tajuk untuk elemen semasa bagi mudah untuk dikenalpasti"
+
+#: shortcodes/image/megamenu-image.php:91
+msgid "Image File"
+msgstr "Fail Imej"
+
+#: shortcodes/image/megamenu-image.php:96
+msgid "Choose image"
+msgstr "Pilih imej"
+
+#: shortcodes/image/megamenu-image.php:99
+msgid "Image Size"
+msgstr "Saiz Imej"
+
+#: shortcodes/image/megamenu-image.php:102
+msgid "Set image size"
+msgstr "Tetapkan saiz imej"
+
+#: shortcodes/image/megamenu-image.php:105
+msgid "Alt Text"
+msgstr "Teks Lain"
+
+#: shortcodes/image/megamenu-image.php:110
+msgid "Set alt text for image"
+msgstr "Tetapkan teks lain untuk imej"
+
+#: shortcodes/image/megamenu-image.php:113
+msgid "Caption"
+msgstr "Caption"
+
+#: shortcodes/image/megamenu-image.php:118
+msgid "Set caption for image"
+msgstr "Tetapkan caption untuk imej"
+
+#: shortcodes/image/megamenu-image.php:121
+msgid "On Click"
+msgstr "Ketika Klik"
+
+#: shortcodes/image/megamenu-image.php:127
+msgid "Set link type of image"
+msgstr "Tetapkan jenis pautan untuk imej"
+
+#: shortcodes/image/megamenu-image.php:131
+msgid "Large Image Size"
+msgstr "Imej Saiz Besar"
+
+#: shortcodes/image/megamenu-image.php:134
+msgid "Choose image size"
+msgstr "Pilih saiz imej"
+
+#: shortcodes/image/megamenu-image.php:138
+msgid "URL"
+msgstr "URL"
+
+#: shortcodes/image/megamenu-image.php:144
+msgid "Url of link when click on image"
+msgstr "Url untuk pautan semasa mengklik pada imej"
+
+#: shortcodes/image/megamenu-image.php:147
+msgid "Single Item"
+msgstr "Item Tunggal"
+
+#: shortcodes/image/megamenu-image.php:159
+msgid "Choose item to link to"
+msgstr "Pilih item untuk dihubungkan ke"
+
+#: shortcodes/image/megamenu-image.php:162
+msgid "Open in"
+msgstr "Buka di"
+
+#: shortcodes/image/megamenu-image.php:168
+msgid "Select type of opening action when click on element"
+msgstr "Pilih jenis tindakan pembukaan apabila klik pada elemen"
+
+#: shortcodes/image/megamenu-image.php:174
+msgid "Container Style"
+msgstr "Stail Ruang"
+
+#: shortcodes/image/megamenu-image.php:180
+msgid "Set Container Style"
+msgstr "Tetapkan Stail Ruang"
+
+#: shortcodes/image/megamenu-image.php:183
+msgid "Alignment"
+msgstr "Penjajaran"
+
+#: shortcodes/image/megamenu-image.php:189
+msgid "Setting position: right, left, center, inherit parent style"
+msgstr "Tetapkan posisi: kanan, kiri, tengah, warisi stail utama"
+
+#: shortcodes/image/megamenu-image.php:199
+#: shortcodes/text/megamenu-text.php:106
+msgid "Set margin size"
+msgstr "Tetapkan saiz margin"
+
+#: shortcodes/image/megamenu-image.php:202
+msgid "Fade in Animations"
+msgstr "Animasi Fade-in"
+
+#: shortcodes/submenu/submenu.php:37
+msgid "Submenu"
+msgstr "Submenu"
+
+#: shortcodes/submenu/submenu.php:40
+msgid "MegaMenu which displays all sub items at once"
+msgstr "MegaMenu dimana memaparkan semua sub item pada satu masa"
+
+#: shortcodes/submenu/submenu.php:65
+msgid "Select Submenu"
+msgstr "Pilih Submenu"
+
+#: shortcodes/submenu/submenu.php:69
+msgid "All"
+msgstr "Semua"
+
+#: shortcodes/submenu/submenu.php:69
+msgid "Custom"
+msgstr "Tersuai"
+
+#: shortcodes/submenu/submenu.php:98
+msgid "Column breaking"
+msgstr "Pecahan kolum"
+
+#: shortcodes/submenu/submenu.php:105
+msgid "Item Per Column"
+msgstr "Item Per Kolum"
+
+#: shortcodes/submenu/submenu.php:106
+msgid "No of Column"
+msgstr "Jumlah Kolum"
+
+#: shortcodes/text/megamenu-text.php:39 shortcodes/text/megamenu-text.php:46
+msgid "Text"
+msgstr "Teks"
+
+#: shortcodes/text/megamenu-text.php:40
+msgid "Typography"
+msgstr "Tipografi"
+
+#: shortcodes/text/megamenu-text.php:42
+msgid "Simple text"
+msgstr "Teks ringkas"
+
+#: shortcodes/text/megamenu-text.php:85
+msgid "Text Content"
+msgstr "Teks Kandungan"
+
+#: shortcodes/text/megamenu-text.php:86
+msgid "Enter some content for this textblock"
+msgstr "Isikan kandungan untuk blok teks ini"
+
+#: shortcodes/text/megamenu-text.php:92
+msgid "Set content of element"
+msgstr "Tetapkan kandungan pada elemen"
+
+#: shortcodes/text/megamenu-text.php:109 shortcodes/text/megamenu-text.php:114
+msgid "Enable Dropcap"
+msgstr "Benarkan Dropcap"
+
+#: shortcodes/text/megamenu-text.php:118 templates/menu-builder.php:66
+#: templates/menu-builder.php:223 templates/menu-builder.php:317
+msgid "Font Face"
+msgstr "Font Face"
+
+#: shortcodes/text/megamenu-text.php:139
+msgid "Set Font Face"
+msgstr "Tetapkan Font Face"
+
+#: shortcodes/text/megamenu-text.php:143 templates/menu-builder.php:96
+#: templates/menu-builder.php:256 templates/menu-builder.php:349
+msgid "Font Attributes"
+msgstr "Attribut Font"
+
+#: shortcodes/text/megamenu-text.php:171
+msgid "Set Font Attribute"
+msgstr "Tetapkan Font Attribut"
+
+#: shortcodes/text/megamenu-text.php:175 shortcodes/text/megamenu-text.php:182
+msgid "Line height"
+msgstr "Tinggi baris"
+
+#: templates/about-us.php:2
+msgid "Welcome to WR Mega Menu"
+msgstr "Selamat Datang ke WR Mega Menu"
+
+#: templates/custom-css.php:43
+msgid "CSS Files"
+msgstr "Fail-fail CSS"
+
+#: templates/custom-css.php:47
+msgid "Edit"
+msgstr "Ubah"
+
+#: templates/custom-css.php:49
+msgid "Done"
+msgstr "Selesai"
+
+#: templates/custom-css.php:74
+msgid "CSS Code"
+msgstr "Kod CSS"
+
+#: templates/custom-css.php:74
+msgid "Input here custom CSS code you want to be loaded on this page"
+msgstr "Isikan kod CSS khusus di sini yang anda ingin dimuatkan di halaman ini"
+
+#: templates/menu-builder.php:31
+msgid "Menu layout"
+msgstr "Susun atur menu"
+
+#: templates/menu-builder.php:42
+msgid "Stick menu to top"
+msgstr "Tetapkan menu di atas"
+
+#: templates/menu-builder.php:50
+msgid "Stick menu to top when scroll down"
+msgstr "Tetapkan menu di atas ketika turun ke bawah"
+
+#: templates/menu-builder.php:54
+msgid "Font"
+msgstr "Font"
+
+#: templates/menu-builder.php:58 templates/menu-builder.php:214
+#: templates/menu-builder.php:308
+msgid "inherit"
+msgstr "warisi"
+
+#: templates/menu-builder.php:140
+msgid "Background Color"
+msgstr "Warna Latar Belakang"
+
+#: templates/menu-builder.php:151
+msgid "Background On Hover"
+msgstr "Latar Belakang Ketika Hover"
+
+#: templates/menu-builder.php:167
+msgid "To add icon for menu item, access to WP Menu management"
+msgstr "Untuk menambah ikon untuk item menu, akses ke pengurusan WP Menu"
+
+#: templates/menu-builder.php:170
+msgid "Display Mode"
+msgstr "Mod Paparan"
+
+#: templates/menu-builder.php:176
+msgid "Text Only"
+msgstr "Teks Sahaja"
+
+#: templates/menu-builder.php:177
+msgid "Icon Only"
+msgstr "Ikon Sahaja"
+
+#: templates/menu-builder.php:178
+msgid "Icon vs Text"
+msgstr "Ikon vs Teks"
+
+#: templates/menu-builder.php:184
+msgid "Icon Position"
+msgstr "Posisi Ikon"
+
+#: templates/menu-builder.php:192
+msgid "the position of icon"
+msgstr "posisi untuk ikon"
+
+#: templates/menu-builder.php:197
+msgid "Icon Size"
+msgstr "Saiz Ikon"
+
+#: templates/menu-builder.php:210
+msgid "Heading Text"
+msgstr "Teks Heading"
+
+#: templates/menu-builder.php:241
+msgid "Arial"
+msgstr "Arial"
+
+#: templates/menu-builder.php:304
+msgid "Normal Text"
+msgstr "Teks Biasa"
+
+#: templates/menu-builder.php:401
+msgid "Enable Bullet Icon"
+msgstr "Benarkan Ikon Bullet"
+
+#: templates/menu-builder.php:440
+msgid "Styling"
+msgstr "Penggayaan"
+
+#: templates/menu-builder.php:523
+msgid "Theme Style"
+msgstr "Gaya Tema"
+
+#: templates/menu-builder.php:690
+msgid "Reset Confirmation"
+msgstr "Tetapkan Semula Pengesahan"
+
+#: templates/menu-builder.php:694
+msgid ""
+"When you reset Styling options, you're going to revert all changes you've "
+"made to default settings. Do you want to reset Styling options?"
+msgstr "Apabila anda menetapkan semula pilihan Penggayaan, anda akan mengubah kembali semua perubahan yang anda telah buat pada tetapan asal. Adakah anda pasti untuk menetapkan pilihan Penggayaan?"
+
+#: templates/menu-builder.php:697
+msgid "Reset Styling"
+msgstr "Tetapkan Semula Pengayaan"
+
+#: templates/menu-builder.php:743
+msgid "MegaMenu is OFF now, turn it ON to start configuring."
+msgstr "MegaMenu sekarang dalam keadaan TUTUP, BUKA untuk mulakan konfigurasi"
+
+#: templates/menu-builder.php:745
+msgid "Turn on MegaMenu"
+msgstr "Buka MegaMenu"
+
+#: templates/select-elements.php:19
+msgid "You have not install Free or Pro Shortcode package."
+msgstr "Anda belum memasang pakej Shortcode Percuma ataupun Pro."
+
+#: templates/select-elements.php:50
+msgid "Menu Elements"
+msgstr "Elemen Menu"
+
+#: templates/select-elements.php:55
+msgid "All Elements"
+msgstr "Semua Elemen"
+
+#: templates/select-elements.php:75
+msgid "Widgets"
+msgstr "Widget"
+
+#: templates/select-elements.php:80
+msgid "Search"
+msgstr "Carian"
+
+#: templates/select-elements.php:82
+msgid "Clear Search"
+msgstr "Bersihkan Carian"
+
+#: templates/settings.php:53
+msgid "WR MegaMenu Settings"
+msgstr "Tetapan WR MegaMenu"
+
+#: templates/settings.php:68
+msgid "Username:"
+msgstr "Nama Pengguna:"
+
+#: templates/settings.php:73
+msgid "Password:"
+msgstr "Kata Laluan:"
+
+#: templates/settings.php:79
+msgid "Insert the customer account you registered on:"
+msgstr "Isikan akaun pelanggan yang anda daftarkan:"
+
+#: templates/settings.php:81
+msgid ""
+"This account is only required when you want to update commercial plugins "
+"purchased from woorockets.com."
+msgstr "Akaun ini hanya diperlukan ketika anda ingin mengemaskini plugin komersil yang dibeli dari woorockets.com."
+
+#: templates/about-us.php:41
+msgid ""
+"Thank you for installing WR Mega Menu from WooRockets Team! We are making "
+"new hi-quality themes and plugins for you ;) Follow us on <a href=\"%s\" "
+"target=\"_blank\" >Twitter</a> or <a href=\"%s\" target=\"_blank\" "
+">Subscribe</a> to our email list and be the first to get updated."
+msgstr ""
+
+#: templates/about-us.php:70
+msgid "About WR Mega Menu"
+msgstr ""
+
+#: templates/about-us.php:72
+msgid ""
+"<strong>WR Mega Menu</strong> is the simplest tool to create a beautiful "
+"menu on your website. It is fully responsive, easy to drag-and-drop and "
+"totally in control with few clicks."
+msgstr ""
+
+#: templates/about-us.php:75
+msgid "Current version"
+msgstr ""
+
+#: templates/about-us.php:75
+msgid "Change log"
+msgstr ""
+
+#: templates/about-us.php:76
+msgid "Follow us to get latest updates"
+msgstr ""
+
+#: templates/about-us.php:77
+msgid "Follow"
+msgstr ""
+
+#: templates/about-us.php:88
+msgid "Enter your email"
+msgstr ""
+
+#: templates/about-us.php:91
+msgid "Join our mailing list"
+msgstr ""
+
+#: templates/about-us.php:92
+msgid ""
+"Receive the latest updates about WR Mega Menu as well as all the best news "
+"from WooRockets"
+msgstr ""
+
+#: templates/about-us.php:98
+msgid "Detailed construction of how to use WR Mega Menu"
+msgstr ""
+
+#: templates/about-us.php:105
+msgid "Hot Features"
+msgstr ""
+
+#: templates/about-us.php:108
+msgid "For Translators"
+msgstr ""
+
+#: templates/about-us.php:114
+msgid "Intuitive Layout"
+msgstr ""
+
+#: templates/about-us.php:115
+msgid ""
+"Once installed, it's located in the default WordPress main panel. To help "
+"you easily manage your menu, <strong>WR Mega Menu</strong> is designed with "
+"a simple and intuitive layout. You can easily select what kind of content to"
+" be shown in the submenu without going back to the front-end."
+msgstr ""
+
+#: templates/about-us.php:118
+msgid "Drag and Drop Layout"
+msgstr ""
+
+#: templates/about-us.php:119
+msgid ""
+"Drag and drop is a convenient functionality for creating element in "
+"<strong>WR Mega Menu</strong>. You can easily arrange columns, move page "
+"elements into another position and even resize columns using just your "
+"mouse. You can also use the \"Move button\" on the sidebar to move rows up "
+"or down."
+msgstr ""
+
+#: templates/about-us.php:122
+msgid "Built-in elements"
+msgstr ""
+
+#: templates/about-us.php:123
+msgid ""
+"We have created some predefined elements so you can choose the most suitable"
+" field and add as many elements as you want for your site without any "
+"coding. Interestingly, you can easily search these elements with the "
+"Spotlight Filter."
+msgstr ""
+
+#: templates/about-us.php:127
+msgid ""
+"If you are reading this, we need your contribution! We appreciate all kinds "
+"of support for Translating WR Mega Menu into your language!"
+msgstr ""
+
+#: templates/about-us.php:127
+msgid "Translate WR Mega Menu"
+msgstr ""
+
+#: templates/about-us.php:139
+msgid "Rate WR Mega Menu"
+msgstr ""
+
+#: templates/about-us.php:140
+msgid ""
+"Share your thoughts of WR Mega Menu with other WordPress folks. Next "
+"versions of WR Mega Menu will be improved basing on your opinions."
+msgstr ""
+
+#: templates/about-us.php:145 templates/about-us.php:158
+msgid "Submit your Website"
+msgstr ""
+
+#: templates/about-us.php:146
+msgid ""
+"Share your website using WR Mega Menu with us. We can include it in our "
+"showcase collection and have it exposed to thousands of WooRockets's website"
+" visitors."
+msgstr ""
+
+#: templates/about-us.php:153
+msgid "Review"
+msgstr ""
+
+#: templates/about-us.php:167
+msgid "Learn more from"
+msgstr ""
+
+#: templates/about-us.php:167
+msgid "OUR BLOG"
+msgstr ""
+
+#: templates/about-us.php:169
+msgid ""
+"Follow our blog for latest news, tutorials & interviews about WooComerce & "
+"WordPress"
+msgstr ""
+
+#: templates/about-us.php:172
+msgid "SEE OUR OTHER AWESOMENESS"
+msgstr ""
+
+#: templates/about-us.php:177
+msgid "Freebies download"
+msgstr ""
+
+#: templates/about-us.php:185
+msgid "Corsa theme"
+msgstr ""
+
+#. #-#-#-#-#  wr-megamenu.pot (WR MegaMenu @version)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  wr-megamenu.pot (WR MegaMenu @version)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://woorockets.com"
+msgstr "http://woorockets.com"
+
+#. Author of the plugin/theme
+msgid "WooRockets"
+msgstr "WooRockets"
